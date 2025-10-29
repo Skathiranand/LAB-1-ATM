@@ -28,22 +28,22 @@ Organize the system into high-level logical groupings (ATM and BANK SYSTEM packa
 
 ## UML DIAGRAMS:
 ### USECASE DIAGRAM :
-<img width="1076" height="769" alt="Screenshot 2025-09-02 135457" src="https://github.com/user-attachments/assets/3472b06b-725e-48b8-940d-53c4902d3f28" />
+![UseCaseDiagram1](https://github.com/user-attachments/assets/71469aa3-b726-426e-9804-8339a94e7b8c)
 
 ### CLASS DIAGRAM :
-<img width="873" height="606" alt="Screenshot 2025-09-02 135322" src="https://github.com/user-attachments/assets/221dcc5a-fb35-419b-b1b1-61ddea546bbf" />
+![ClassDiagram1](https://github.com/user-attachments/assets/9eed2131-c702-4400-b81f-be2b998603f6)
 
 ### SEQUENCE DIAGRAM :
-<img width="1061" height="916" alt="Screenshot 2025-09-02 135300" src="https://github.com/user-attachments/assets/d232c070-b7c9-42bd-bb11-233d54a2ce18" />
+![SequenceDiagram1](https://github.com/user-attachments/assets/23f0285f-f3a4-4fc8-a6ec-ac2e7e1010b8)
 
 ### ACTIVITY DIAGRAM :
-<img width="880" height="934" alt="Screenshot 2025-09-02 160048" src="https://github.com/user-attachments/assets/77e2a777-5e66-4fd6-9e7a-73b36ccaf725" />
+![ActivityDiagram1](https://github.com/user-attachments/assets/622e07cd-23b5-44b4-911a-228ed50f93ce)
 
 ### COMMUNICATION DIAGRAM :
-<img width="1210" height="595" alt="Screenshot 2025-09-02 135400" src="https://github.com/user-attachments/assets/944b6860-13bd-49a9-8b26-661d4f8301e1" />
+![CommunicationDiagram1](https://github.com/user-attachments/assets/c797175b-c509-4cc3-8d06-173eb112f525)
 
 ### PACKAGE DIAGRAM :
-<img width="1234" height="743" alt="Screenshot 2025-09-02 135223" src="https://github.com/user-attachments/assets/30da7912-e5bf-474c-9b57-2382c48daeb7" />
+![PackageDiagram1](https://github.com/user-attachments/assets/35fea523-f1a0-426b-b45c-ec3bb0e3f8a1)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
